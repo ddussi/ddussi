@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/11jQqqyF4S5MWY/giphy.gif"/>
+<img src="https://media.giphy.com/media/YRK6HL1CEMUxZHLvjl/giphy.gif"/>
 
 <!--
 **ddussi/ddussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
