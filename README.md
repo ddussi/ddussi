@@ -1,5 +1,5 @@
 <div align="center">      
-  <h2>Hello World 🍎</h2>
+  <h2>Hello_World 🍎</h2>
   <div align="center">
     <h3>SKILL 🖥️</h3>
       <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" alt="TypeScript" />
