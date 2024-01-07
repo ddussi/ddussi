@@ -1,7 +1,7 @@
 <div align="center">      
   <h2>Hello World 🍎</h2>
   <div align="center">
-    <h3>SKILL</h3>
+    <h3>SKILL 🖥️</h3>
       <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" alt="TypeScript" />
       <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" />
       <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React" />
