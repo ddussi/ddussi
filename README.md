@@ -20,5 +20,5 @@
 </div>
 <img align="right" src="http://mazassumnida.wtf/api/generate_badge?boj=adug123" />
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ddussi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ddussi&show_icons=true&count_private=true&include_all_commits=true&theme=dark#gh-dark-mode-only" />
 </div>
