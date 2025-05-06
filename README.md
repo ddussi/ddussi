@@ -14,7 +14,6 @@
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/-TailwindCSS-blue?style=flat-square&logo=TailwindCSS" alt="Tailwind CSS" />
     <br />
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fddussi&count_bg=%23848484&title_bg=%23434343&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false" />
   </div>
   <hr />
 </div>
